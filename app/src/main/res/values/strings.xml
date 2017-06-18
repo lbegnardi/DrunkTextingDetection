@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thesis_Test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="messages">
+        <item>Dove sei?</item>
+        <item>Stasera a che ora e dove ci si trova?</item>
+        <item>Cos\'hai bevuto oggi?</item>
+        <item>Perché stai facendo questo test?</item>
+    </string-array>
+    <string name="address">http://apptesi.homepc.it:8000/communication/</string>
+</resources>
